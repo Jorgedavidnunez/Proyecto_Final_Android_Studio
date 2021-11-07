@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proyecto_final</string>
+    <string name="palabra_buscar">Buscar Registro</string>
+    <string name="idtexto">Aqui se muestran los datos</string>
+    <string name="bnt_buscar">BUSCAR</string>
+    <string name="bnt_redirijir">Ventana Busqueda</string>
+    <string name="bnt_prueba">MOSTRAR Y BUSCAR</string>
+</resources>
